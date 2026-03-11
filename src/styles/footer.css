@@ -1,0 +1,11 @@
+.footer {
+  margin-top: 5em;
+  padding: 4em;
+  text-align: center;
+  font-size: 0.8em;
+}
+
+.footer__sep {
+  margin: 0 0.75em;
+  opacity: 0.6;
+}
