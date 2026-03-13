@@ -73,6 +73,7 @@
     line-height: calc(var(--ids__density) / 1.3);
     margin-bottom: 0.2em;
     margin-left: -0.04em;
+    font-feature-settings: "cv11" 1; /* одночашечная a (как о с палочкой) */
 
     &.XL {
       font-size: 6.5em;
